@@ -1,1 +1,1 @@
-// SendGrid email API route
+// Valid SendGrid API integration
