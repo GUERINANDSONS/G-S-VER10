@@ -4,7 +4,7 @@ const Scheduler = dynamic(() => import('../components/SchedulerApp'), { ssr: fal
 
 export default function Home() {
   return (
-    <main>
+    <main style={{ padding: '1rem' }}>
       <h1>Custom Home Scheduler</h1>
       <Scheduler />
     </main>
